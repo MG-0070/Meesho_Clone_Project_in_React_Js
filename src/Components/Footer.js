@@ -70,7 +70,7 @@ export const Footer = () => {
                 <P>Meesho Tech blog</P>
               </Topic>
               <Topic>
-                <H2 style={{ magin: "0" }}>Contact Satyam:</H2>
+                <H2 style={{ magin: "0" }}>Contact Rishi:</H2>
                 <P>saty953@gmail.com</P>
               </Topic>
 
